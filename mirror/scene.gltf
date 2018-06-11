@@ -1,0 +1,618 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 590,
+      "max": [
+        0.44999998807907104,
+        0.004999999888241291,
+        0.050060000270605087
+      ],
+      "min": [
+        -0.44999998807907104,
+        -0.004999999888241291,
+        -1.1499500274658203
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7080,
+      "componentType": 5126,
+      "count": 590,
+      "max": [
+        0.99704545736312866,
+        0.99924427270889282,
+        0.99569869041442871
+      ],
+      "min": [
+        -0.99704426527023315,
+        -0.99924427270889282,
+        -0.99572020769119263
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 590,
+      "max": [
+        0.98807448148727417,
+        0.99965143203735352,
+        0.99463587999343872,
+        1
+      ],
+      "min": [
+        -0.98922258615493774,
+        -0.99977761507034302,
+        -0.99453771114349365,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 590,
+      "max": [
+        2.1431601047515869,
+        1.6002700328826904
+      ],
+      "min": [
+        -1.41211998462677,
+        -0.4578700065612793
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2256,
+      "max": [
+        589
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14160,
+      "componentType": 5126,
+      "count": 90,
+      "max": [
+        0.30000001192092896,
+        0.0042099999263882637,
+        -0.099859997630119324
+      ],
+      "min": [
+        -0.29980000853538513,
+        0.00089000002481043339,
+        -0.99984997510910034
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 15240,
+      "componentType": 5126,
+      "count": 90,
+      "max": [
+        0.99749475717544556,
+        0.90501624345779419,
+        0.99749177694320679
+      ],
+      "min": [
+        -0.99749332666397095,
+        -0.99749177694320679,
+        -0.99751192331314087
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 9440,
+      "componentType": 5126,
+      "count": 90,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 9024,
+      "componentType": 5125,
+      "count": 468,
+      "max": [
+        89
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16320,
+      "componentType": 5126,
+      "count": 2956,
+      "max": [
+        0.3423599898815155,
+        0.0076399999670684338,
+        0.092440001666545868
+      ],
+      "min": [
+        -0.34397000074386597,
+        0.0048000002279877663,
+        0.039349999278783798
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 51792,
+      "componentType": 5126,
+      "count": 2956,
+      "max": [
+        0.97999680042266846,
+        1,
+        1
+      ],
+      "min": [
+        -0.98000848293304443,
+        -0.99998396635055542,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 10880,
+      "componentType": 5126,
+      "count": 2956,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10896,
+      "componentType": 5125,
+      "count": 17400,
+      "max": [
+        2955
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 87264,
+      "componentType": 5126,
+      "count": 28,
+      "max": [
+        0.29998999834060669,
+        0.0042200000025331974,
+        -0.099880002439022064
+      ],
+      "min": [
+        -0.29978999495506287,
+        0.004120000172406435,
+        -0.99983000755310059
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 87600,
+      "componentType": 5126,
+      "count": 28,
+      "max": [
+        0.90499931573867798,
+        0.99749177694320679,
+        0.90498918294906616
+      ],
+      "min": [
+        -0.9049564003944397,
+        0.38612833619117737,
+        -0.9049839973449707
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 58176,
+      "componentType": 5126,
+      "count": 28,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 80496,
+      "componentType": 5125,
+      "count": 96,
+      "max": [
+        27
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Juan Carlos (https://sketchfab.com/grove4069)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/d85091d6801a46d2ae1654c0ba8f8af3",
+      "title": "Mirror in recycled wood."
+    },
+    "generator": "Sketchfab-3.24.4",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 80880,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4720,
+      "byteOffset": 80880,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 87936,
+      "byteOffset": 85600,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58624,
+      "byteOffset": 173536,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 232160,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Legno_di_recupero_cornice_normal.png"
+    },
+    {
+      "uri": "textures/Legno_di_recupero_cornice_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Legno_di_recupero_cornice_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Legno_di_recupero_cornice",
+      "normalTexture": {
+        "index": 0,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.30659298779999999,
+          0.30659298779999999,
+          0.30659298779999999,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.00459166,
+        "metallicRoughnessTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "roughnessFactor": 0.13586128049999999
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Vetro_scecchio",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Ferro_anelli_di_sostegno",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0097212172999999995,
+          0.0097212172999999995,
+          0.0097212172999999995,
+          1
+        ],
+        "metallicFactor": 0.64800000000000002,
+        "roughnessFactor": 0.22399999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Laccatura",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1046164841,
+          0.1046164841,
+          0.1046164841,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 0.44073932929999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Specchio_in_legno_di_recupero_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Specchio_in_legno_di_recupero_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Specchio_in_legno_di_recupero_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TANGENT": 11
+          },
+          "indices": 12,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Specchio_in_legno_di_recupero_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TANGENT": 15
+          },
+          "indices": 16,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.40000000000000002,
+        0,
+        0,
+        0,
+        0,
+        0.40000000000000002,
+        0,
+        0,
+        0,
+        0,
+        0.40000000000000002,
+        0,
+        -0.5,
+        1.6293899999999999,
+        2.3999999999999999,
+        1
+      ],
+      "name": "Punto_di_controllo_specchio"
+    },
+    {
+      "children": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "matrix": [
+        2.5,
+        0,
+        0,
+        0,
+        0,
+        3.7499800000000003,
+        0,
+        0,
+        0,
+        -0,
+        2.5,
+        0,
+        0.0020000000000000005,
+        -0.013790000000000004,
+        -0.12808,
+        1
+      ],
+      "name": "Specchio_in_legno_di_recupero"
+    },
+    {
+      "mesh": 0,
+      "name": "Specchio_in_legno_di_recupero_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Specchio_in_legno_di_recupero_1"
+    },
+    {
+      "mesh": 2,
+      "name": "Specchio_in_legno_di_recupero_2"
+    },
+    {
+      "mesh": 3,
+      "name": "Specchio_in_legno_di_recupero_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
