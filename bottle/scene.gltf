@@ -1,0 +1,272 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1418,
+      "max": [
+        4.0040311813354492,
+        4.0040302276611328,
+        14.365921974182129
+      ],
+      "min": [
+        0,
+        0,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 17016,
+      "componentType": 5126,
+      "count": 1418,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1418,
+      "max": [
+        1,
+        0.9998549222946167,
+        0.93306034803390503,
+        1
+      ],
+      "min": [
+        -0.99999982118606567,
+        -0.99944531917572021,
+        -1,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1418,
+      "max": [
+        0.98549199104309082,
+        0.99669599533081055
+      ],
+      "min": [
+        0.0077419998124241829,
+        0.010484999977052212
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5628,
+      "max": [
+        1417
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "dylan_abernethy (https://sketchfab.com/dylan_abernethy)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/9253e319f1d24cd1959db9b02ad974f8",
+      "title": "Bottle Map Test"
+    },
+    "generator": "Sketchfab-3.19.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 22512,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11344,
+      "byteOffset": 22512,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34032,
+      "byteOffset": 33856,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22688,
+      "byteOffset": 67888,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 90576,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_0_baseColor.png"
+    },
+    {
+      "uri": "textures/material_0_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "material_0",
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -2.0020151138305664,
+        -2.0020151138305664,
+        -6.9084959030151367,
+        1
+      ],
+      "name": "2f93b001495643ba812962637b6a7503.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+
