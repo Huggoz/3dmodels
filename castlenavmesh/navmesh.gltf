@@ -1,0 +1,119 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5123,
+            "count" : 19062,
+            "max" : [
+                14941
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 14942,
+            "max" : [
+                117.72273254394531,
+                119.69129180908203,
+                0.20800495147705078
+            ],
+            "min" : [
+                -119.57727813720703,
+                -135.6087188720703,
+                -133.19198608398438
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 14942,
+            "max" : [
+                0.9973754286766052,
+                0.9844050407409668,
+                -0.0
+            ],
+            "min" : [
+                -0.9789422154426575,
+                -0.9946897625923157,
+                -1.0
+            ],
+            "type" : "VEC3"
+        }
+    ],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 38124,
+            "byteOffset" : 0,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 179304,
+            "byteOffset" : 38124,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 179304,
+            "byteOffset" : 217428,
+            "target" : 34962
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 396732,
+            "uri" : "navmesh.bin"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Navmesh",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2,
+                        "POSITION" : 1
+                    },
+                    "indices" : 0
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Navmesh"
+        },
+        {
+            "children" : [
+                0
+            ],
+            "name" : "SceneRoot",
+            "rotation" : [
+                -3.090862321641907e-08,
+                0.7071067094802856,
+                -0.7071068286895752,
+                -3.0908616110991716e-08
+            ]
+        }
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "OSG_Scene",
+            "nodes" : [
+                1
+            ]
+        }
+    ]
+}
